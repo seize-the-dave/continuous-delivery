@@ -2,5 +2,6 @@
 
 ## Trunk-Based Development
 
-- https://trunkbaseddevelopment.com/
-- https://www.branchbyabstraction.com/
+- [Trunk-Based Development](https://trunkbaseddevelopment.com/)
+- [Branch by Abstraction](https://www.branchbyabstraction.com/)
+- [GitHub Flow](https://guides.github.com/introduction/flow/)
