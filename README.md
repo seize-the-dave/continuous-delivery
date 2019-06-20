@@ -2,5 +2,5 @@
 
 ## Trunk-Based Development
 
-- https://trunkbaseddevelopment.com
+- https://trunkbaseddevelopment.com/
 - https://www.branchbyabstraction.com/
