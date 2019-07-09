@@ -9,7 +9,7 @@
 
 ## Technical Debt
 
-[Toothbrush Metaphor](https://twitter.com/tofo/status/1141747680198254594?s=19)
+- [Toothbrush Metaphor](https://twitter.com/tofo/status/1141747680198254594?s=19)
 
 # Site Reliability Engineering
 
